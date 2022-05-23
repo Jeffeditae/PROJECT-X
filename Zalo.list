@@ -22,3 +22,5 @@ IP-CIDR,49.213.94.0/23,Zalo
 IP-CIDR,49.213.96.0/19,Zalo
 IP-CIDR,61.28.224.0/19,Zalo
 DOMAIN-SUFFIX,zalo.me,Zalo
+DOMAIN-SUFFIX,zadn.vn,Zalo
+DOMAIN-SUFFIX,zaloapp.com,Zalo
