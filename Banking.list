@@ -1,0 +1,90 @@
+# > Ví điện tử
+# > Momo
+DOMAIN-SUFFIX,momo.vn,Proxy
+DOMAIN-SUFFIX,mservice.com.vn,Proxy
+DOMAIN-SUFFIX,mservice.io,Proxy
+# > ZaloPay
+DOMAIN-SUFFIX,zalopay.vn,Proxy
+# > VNPAY
+DOMAIN-SUFFIX,vnpay.vn,Proxy
+# > Moca
+DOMAIN-SUFFIX,moca.vn,Proxy
+DOMAIN-SUFFIX,moca-prod-cdn.s3-ap-southeast-1.amazonaws.com,Proxy
+# > VinIDPAY
+DOMAIN-SUFFIX,vinid.net,Proxy
+# > VNPTPay
+DOMAIN-SUFFIX,vnptpay.vn,Proxy
+# > Gpay
+DOMAIN-SUFFIX,g-pay.vn,Proxy
+# > True money
+DOMAIN-SUFFIX,truemoney.com.vn,Proxy
+# > Ngân hàng VN
+# > MB Bank
+DOMAIN-SUFFIX,mbbank.com.vn,Proxy
+# > VietinBank
+DOMAIN-SUFFIX,vietinbank.vn,Proxy
+# > ACB
+DOMAIN-SUFFIX,acb.com.vn,Proxy
+# > TPBank
+DOMAIN-SUFFIX,tpb.vn,Proxy
+# > Đông Á Bank, DAB
+DOMAIN-SUFFIX,dongabank.com.vn,Proxy
+# > SeABank
+DOMAIN-SUFFIX,seabank.com.vn,Proxy
+# > ABBANK
+DOMAIN-SUFFIX,abbank.vn,Proxy
+# > Bac A Bank
+DOMAIN-SUFFIX,baca-bank.vn,Proxy
+# > Viet Captial Bank
+DOMAIN-SUFFIX,vietcapitalbank.com.vn,Proxy
+# > MSB
+DOMAIN-SUFFIX,msb.com.vn,Proxy
+# > Techcombank, TCB
+DOMAIN-SUFFIX,techcombank.com.vn,Proxy
+# > Kien Long Bank
+DOMAIN-SUFFIX,kienlongbank.com,Proxy
+# > Nam A Bank
+DOMAIN-SUFFIX,namabank.com.vn,Proxy
+# > National Citizen Bank, NCB
+DOMAIN-SUFFIX,ncb-bank.vn,Proxy
+# > VPBank
+DOMAIN-SUFFIX,vpbank.com.vn,Proxy
+# > HDBank
+DOMAIN-SUFFIX,hdbank.com.vn,Proxy
+# > Orient Commercial Bank, OCB
+DOMAIN-SUFFIX,ocb.com.vn,Proxy
+# > PVcombank
+DOMAIN-SUFFIX,pvcombank.com.vn,Proxy
+# > VIBBank, VIB
+DOMAIN-SUFFIX,vib.com.vn,Proxy
+# > Sài Gòn, SCB
+DOMAIN-SUFFIX,scb.com.vn,Proxy
+# > Saigonbank, SGB
+DOMAIN-SUFFIX,saigonbank.com.vn,Proxy
+# > SHBank, SHB
+DOMAIN-SUFFIX,shb.com.vn,Proxy
+# > Sacombank, STB
+DOMAIN-SUFFIX,sacombank.com.vn,Proxy
+# > VietABank, VAB
+DOMAIN-SUFFIX,vietabank.com.vn,Proxy
+# > BaoVietBank, BVB
+DOMAIN-SUFFIX,baovietbank.vn,Proxy
+# > VietBank
+DOMAIN-SUFFIX,vietbank.com.vn,Proxy
+# > Petrolimex Group Bank, PG Bank
+DOMAIN-SUFFIX,pgbank.com.vn,Proxy
+# > Eximbank, EIB
+DOMAIN-SUFFIX,eximbank.com.vn,Proxy
+# > LienVietPostBank, LPB
+DOMAIN-SUFFIX,lienvietpostbank.com.vn,Proxy
+# > Vietcombank, VCB
+DOMAIN-SUFFIX,vietcombank.com.vn,Proxy
+# > BIDV, BID
+DOMAIN-SUFFIX,bidv.com.vn,Proxy
+# > OceanBank
+DOMAIN-SUFFIX,oceanbank.vn,Proxy
+# > Cake
+DOMAIN-SUFFIX,cake.vn,Proxy
+# > Ngân hàng Nước Ngoài
+# > Shinhan
+DOMAIN-SUFFIX,shinhan.com.vn,Proxy
